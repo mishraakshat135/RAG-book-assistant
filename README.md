@@ -135,6 +135,10 @@ AI Answer
 
 ---
 
+### Live Demo : https://rag-book-assistant-b7jmdhhuroyws2wtgbrcha.streamlit.app/
+
+---
+
 ## 👨‍💻 Author
 
 **Akshat Mishra**
