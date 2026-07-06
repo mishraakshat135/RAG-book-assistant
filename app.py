@@ -56,7 +56,7 @@ if uploaded_file:
 
 
 
-if os.path.exists("chroma_db"):
+if os.path.exists("chroma-db"):
 
     embeddings = MistralAIEmbeddings()
 
@@ -123,8 +123,6 @@ Question:
         st.write("### AI Answer")
         st.write(response.content)
 
-else:
-    st.write("db does not exist")
     
 
 
