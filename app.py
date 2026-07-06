@@ -122,3 +122,7 @@ Question:
 
         st.write("### AI Answer")
         st.write(response.content)
+
+else:
+    print("db does not exist")
+    
