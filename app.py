@@ -124,5 +124,9 @@ Question:
         st.write(response.content)
 
 else:
-    print("db does not exist")
+    st.write("db does not exist")
     
+
+
+
+
